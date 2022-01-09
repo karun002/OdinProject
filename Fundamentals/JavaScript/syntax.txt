@@ -1,0 +1,10 @@
+JavaScript String
+    To get Length:
+                    let txt = "AKVDSHFKDSHF";
+                    let length = txt.length;
+
+    To slice:  
+                    let str = txt.slice(7,13);
+                    or
+                    let str = txt.substring(7.13); // No negatives to go backwards.
+                    
